@@ -38,5 +38,6 @@ To install necessary dependencies, navigate to the root directory and run the fo
 ## Credits
 I worked on this project with Graham McCullough [Github](https://github.com/Simonmoore23)
 ## Links
-https://github.com/grahamy27
-click here to watch: <iframe src="https://drive.google.com/file/d/16ihsdPbjuIq3xlxQM_nrCX2Ais9FVLEQ/preview" width="640" height="480"></iframe>
+- [github](https://github.com/grahamy27)
+
+- [click here to watch](https://drive.google.com/file/d/16ihsdPbjuIq3xlxQM_nrCX2Ais9FVLEQ/view)
